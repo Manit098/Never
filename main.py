@@ -1,4 +1,4 @@
-﻿import os
+9﻿import os
 import re
 
 import aiohttp
@@ -181,4 +181,4 @@ def clean_discord_message(input_string):
 
 
 #---------------------------------------------Run Bot-------------------------------------------------
-bot.run(MTIxMjY3OTE0NzUxNjYwMDMzMA.Gvj5qR.rYkUc2LzOjgB6gw4FhsFcuBg2Jc7n0Lb5Yc--Y)
+bot.run(DISCORD_BOT_TOKEN)
