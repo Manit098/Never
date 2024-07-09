@@ -13,7 +13,7 @@ load_dotenv()
 
 GOOGLE_AI_KEY = os.getenv("AIzaSyAb8_XlTKHPEFuTVph1JND_2RKizoY5Sqw")
 DISCORD_BOT_TOKEN = os.getenv("MTIxMjY3OTE0NzUxNjYwMDMzMA.Gvj5qR.rYkUc2LzOjgB6gw4FhsFcuBg2Jc7n0Lb5Yc--Y")
-MAX_HISTORY = int(os.getenv("15"))
+MAX_HISTORY = int(os.getenv(15))
 
 #---------------------------------------------System Prompt!-------------------------------------------------
 
